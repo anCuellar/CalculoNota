@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalculoNota</string>
+    <string name="aviso">El promedio total es:</string>
+    <string name="tv">Bienvenidos</string>
+    <string name="textView3">Calculo de Notas</string>
+    <string name="textView6">Materia: Base de Datos</string>
+    <string name="textView">Materia: Estructuras II</string>
+    <string name="textView4">Materia: Electronica digital</string>
+    <string name="corte1">Corte 1</string>
+    <string name="corte2">Corte 2</string>
+    <string name="corte3">Corte 3</string>
+    <string name="c1m2">Corte 1</string>
+    <string name="c2m2">Corte 2</string>
+    <string name="c3m2">Corte 3</string>
+    <string name="c1m3">Corte 1</string>
+    <string name="c2m3">Corte 2</string>
+    <string name="c3m3">Corte 3</string>
+</resources>

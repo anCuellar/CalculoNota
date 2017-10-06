@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculoNota</string>
+    <string name="aviso">the total average is:</string>
+    <string name="tv">welcome to my splash</string>
+    <string name="textView3">Calculation of notes</string>
+    <string name="textView6">Mattert: Dtabase</string>
+    <string name="textView">Matter: Estrcture II</string>
+    <string name="textView4">Matter: Digital Electronic</string>
+    <string name="corte1">Cut 1</string>
+    <string name="corte2">Cut 2</string>
+    <string name="corte3">Cut 3</string>
+    <string name="c1m2">Cut 1</string>
+    <string name="c2m2">Cut 2</string>
+    <string name="c3m2">Cut 3</string>
+    <string name="c1m3">Cut 1</string>
+    <string name="c2m3">Cut 2</string>
+    <string name="c3m3">Cut 3</string>
+</resources>
